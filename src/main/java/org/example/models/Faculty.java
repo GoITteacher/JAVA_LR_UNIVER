@@ -1,7 +1,7 @@
-package org.example;
+package org.example.models;
 
 public class Faculty {
-    String name;
+    public String name;
     Human head;
 
     public Faculty(String name, Human head) {

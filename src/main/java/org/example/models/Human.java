@@ -1,8 +1,8 @@
-package org.example;
+package org.example.models;
 
 public class Human {
-    String firstName;
-    String lastName;
+    public String firstName;
+    public String lastName;
     String patronymic;
     Sex sex;
 

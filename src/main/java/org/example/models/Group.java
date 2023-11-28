@@ -1,7 +1,7 @@
-package org.example;
+package org.example.models;
 
 public class Group {
-    String name;
+    public String name;
     Human head;
 
     public Group(String name, Human head) {

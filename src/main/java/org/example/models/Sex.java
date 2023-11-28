@@ -1,4 +1,4 @@
-package org.example;
+package org.example.models;
 
 public enum Sex {
     MALE, FEMALE
